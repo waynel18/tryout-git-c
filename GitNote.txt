@@ -1,0 +1,13 @@
+﻿
+git push --set-upstream origin dev/test01
+git push -u (remote target) (local branch)
+
+
+https://zlargon.gitbooks.io/git-tutorial/content/remote/upstream.html
+
+git push -u github master 指令可以拆解成以下的指令
+
+$ git push github master
+$ git checkout master
+$ git branch -u github/master
+
