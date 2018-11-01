@@ -18,6 +18,8 @@ $ git branch -u github/master
 git fetch
 git checkout <remote branch name>  //git will manage it automatically.
 
+# Push new local to remote
+git push -u origin
 
 
 
