@@ -19,7 +19,7 @@ git fetch
 git checkout <remote branch name>  //git will manage it automatically.
 
 # Push new local to remote
-git push -u origin
+git push -u origin <new local branch name>
 
 
 
