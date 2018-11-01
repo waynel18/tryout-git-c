@@ -11,3 +11,14 @@ $ git push github master
 $ git checkout master
 $ git branch -u github/master
 
+
+----- 1/11/2018 -----
+
+# Checkout remote branch to local
+git fetch
+git checkout <remote branch name>  //git will manage it automatically.
+
+
+
+
+
